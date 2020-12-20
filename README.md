@@ -5,5 +5,5 @@ JSFX: slips all MIDI notes to the same note
 - Download REAPER Stash: https://stash.reaper.fm/v/39557/Will_Develop_every_note_the_same_v.1.0
 
 - Author: Will Develop 
-- Website: https://www.will-records.tk
+- Website: https://www.willrecords.tk
 - E-Mail: will-develop@gmx.de
